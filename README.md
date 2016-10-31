@@ -1,2 +1,0 @@
-# IlMioPrimoProgettoJava
-IlMioPrimoProgettoJava
